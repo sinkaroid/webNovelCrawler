@@ -1,0 +1,12 @@
+{
+    "name": "bib/wncrawler",
+    "description": "wn crawler",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "sinkaroid",
+            "email": "bibsindra@gmail.com"
+        }
+    ],
+    "require": {}
+}
